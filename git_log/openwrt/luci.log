@@ -2,6 +2,7 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-8559119eee|Florian Eckert|Mon Sep 30 08:29:21 2024 +0200|Merge pull request #7297 from emmanuel-ferdman/wip
-bfee5d083c|Emmanuel Ferdman|Sat Sep 28 11:14:12 2024 +0300|docs: update the reference implementation source
+feecad6e57|Paul Donald|Fri Sep 27 03:13:23 2024 +0200|luci-app-lorawan-basicstation: spell fix
+d735c4af12|Paul Donald|Thu Sep 26 20:40:31 2024 +0200|luci-app-lldpd: refactor status.js
+69035ab3c6|Hosted Weblate|Wed Oct 2 17:02:48 2024 +0200|Translated using Weblate (Lithuanian)
 </details>
