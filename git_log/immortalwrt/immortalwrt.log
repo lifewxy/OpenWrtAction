@@ -2,40 +2,26 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-19e3832bf0|Tianling Shen|Thu Oct 3 16:11:46 2024 +0800|Merge Official Source
-f9a0485c99|Álvaro Fernández Rojas|Wed Oct 2 19:01:57 2024 +0200|generic: backport upstream r8169 patches
-d03f3dcf3b|Markus Stockhausen|Sat Sep 14 17:17:44 2024 -0400|realtek: add support for Linksys LGS310C
-c1e43c36b4|Felix Fietkau|Wed Oct 2 17:39:59 2024 +0200|wifi-scripts: add better defaults for 6 GHz interop
-859bb4dd3f|John Crispin|Sat Sep 21 17:53:24 2024 +0200|base-files: set root password if present inside board.json
-5071e842b9|John Crispin|Sat Sep 21 16:19:24 2024 +0200|base-files: add timezone to UCI during config_generate
-e428d7999a|John Crispin|Tue Sep 17 16:58:24 2024 +0200|dropbear: add a uci-defaults script for loading authorized keys
-b506a305fe|John Crispin|Tue Sep 17 15:10:20 2024 +0200|wifi-scripts: populate default wifi credentials and country code from board.json
-b89b19b854|John Crispin|Tue Sep 17 17:30:46 2024 +0200|uboot-envtools: add a board.d script to load defaults from the environment
-84577e48bc|John Crispin|Tue Sep 17 14:36:13 2024 +0200|uboot-envtools: add fw_loadenv tool
-7a120ee72e|John Crispin|Sun Sep 22 09:04:55 2024 +0200|base-files: execute uboot-env script before calling config_generate
-e7c7a3c154|John Crispin|Sun Sep 22 09:06:10 2024 +0200|base-files: uci-defaults: allow setting the number of MACs a radio can use
-fa53a733ab|John Crispin|Sat Sep 21 16:17:17 2024 +0200|base-files: uci-defaults: allow setting default timezone
-a8271b0f82|John Crispin|Sat Sep 14 08:44:19 2024 +0200|base-files: uci-defaults: allow setting default credentials and ssh keys
-b9eadcf318|Daniel Golle|Sat Nov 20 01:43:20 2021 +0000|base-files: uci-defaults: allow setting wireless defaults
-3ed5f6430b|John Crispin|Wed Sep 18 15:05:34 2024 +0200|hostapd: send a notification via ubus when CSA completed
-dd62f7659b|John Crispin|Wed Sep 18 15:21:27 2024 +0200|hostapd: add ifname to generic ubus notify code
-711885ad68|John Crispin|Wed Sep 18 14:47:31 2024 +0200|hostapd: add ifname and vlan_id to sta-authorized notifications
-dc48732ea7|John Crispin|Wed Sep 18 14:43:26 2024 +0200|hostapd: add the ifname to ubus events
-8bfea41eef|John Crispin|Tue Sep 17 18:03:44 2024 +0200|umdns: update to latest HEAD
-b478b7b1f7|Janusz Dziedzic|Fri Sep 20 19:43:32 2024 +0200|wifi-scripts: detect and configure EHT
-7ebd9069f4|Janusz Dziedzic|Fri Sep 6 09:49:18 2024 +0200|mt76: mark mt7996e 11BE capable
-c201905d05|Janusz Dziedzic|Sun Sep 1 12:27:54 2024 +0200|wifi-scripts: mac80211.sh: enable EHT320
-42185bf429|Janusz Dziedzic|Sun Sep 1 10:56:15 2024 +0200|wifi-scripts: mac80211.sh: allow EHT* sets
-d1fc8c3db0|Janusz Dziedzic|Tue Aug 20 13:22:31 2024 +0200|hostapd: fix build when 80211BE enabled
-b1d6068330|Janusz Dziedzic|Tue Aug 20 08:29:18 2024 +0200|hostapd: add CONFIG_DRIVER_11BE_SUPPORT
-92e6b84d15|John Crispin|Sun Sep 22 10:09:41 2024 +0200|ucode: update to latest HEAD
-52e8aeabee|John Crispin|Sat Sep 21 20:17:25 2024 +0200|iwinfo: update to latest HEAD
-8344ff8524|John Crispin|Tue Sep 17 12:41:09 2024 +0200|mediatek: change the the default SUBTARGET to filogic
-acbc0165f4|Tianling Shen|Wed Oct 2 20:25:37 2024 +0800|Merge Official Source
-a9540a4e33|Felix Fietkau|Wed Oct 2 12:38:32 2024 +0200|mac80211: do not pass a stopped vif to the driver on get_txpower
-5f805aedbc|Tianling Shen|Wed Oct 2 15:38:42 2024 +0800|Merge Official Source
-123cb3793f|John Audia|Mon Sep 30 15:58:56 2024 -0400|kernel: bump 6.6 to 6.6.53
-5ca8a4a03a|Aleksander Jan Bajkowski|Tue Oct 1 20:49:55 2024 +0200|lantiq: backport latest upstream patches
-04c5c1ff70|Daniel González Cabanelas|Tue Oct 1 15:45:26 2024 +0200|bmips: fix kernel panic caused by missing CBR address
-d3628ca209|Felix Fietkau|Tue Oct 1 14:44:31 2024 +0200|wifi-scripts: wifi-detect.uc: skip null entries on nl80211 phy dump
+0c41d43988|Tianling Shen|Sat Oct 5 15:24:18 2024 +0800|mediatek: add emmc and snor support for konka komi-a31
+40a0abec18|Tianling Shen|Sat Oct 5 14:06:11 2024 +0800|Merge Official Source
+c1c2b61254|Mauri Sandberg|Tue Sep 24 13:40:10 2024 +0300|ramips: dts: DNA EX400 has redundant type u-boot environment
+758f320ebe|Mauri Sandberg|Wed Oct 2 19:39:22 2024 +0300|mt7621: enable CONFIG_MTD_UBI_NVMEM, CONFIG_NVMEM_LAYOUT_U_BOOT_ENV
+b9e8013716|Felix Fietkau|Fri Oct 4 18:43:32 2024 +0200|mac80211: update to version 6.11.2
+6a6c7a2395|Tianling Shen|Fri Oct 4 16:50:47 2024 +0800|qualcommax: drop stock layout for xiaomi ax3600 and redmi ax6
+abe020a035|Felix Fietkau|Fri Oct 4 10:40:07 2024 +0200|mt76: add missing eeprom file for mt7992
+511e8f84d0|Daniel Golle|Thu Oct 3 16:25:36 2024 +0100|base-files: configure LED when added
+664b8ffb0a|John Audia|Sun Sep 29 06:37:43 2024 -0400|base-files: /etc/sysctl.conf: clarity in comment
+b22ba12390|Yanase Yuki|Sat Sep 14 19:22:18 2024 +0900|audit: update to 3.1.5
+0668537d29|Andrey Butirsky|Sat Sep 28 18:01:16 2024 +0000|meta: VS Code: add "Git: Always Sign Off" setting
+8c36040f04|Rosen Penev|Sun Sep 22 11:19:40 2024 -0700|ath79: rb91x-key: replace fwnode with pdev
+dedeb28755|Rosen Penev|Wed Aug 14 19:17:37 2024 -0700|ath79: rb91x-key: use more devm
+c38f04a092|John Audia|Fri Sep 27 14:08:09 2024 -0400|x86: generic: config-6.6: refresh config
+d1157090ff|Rosen Penev|Thu Sep 26 17:49:55 2024 -0700|ramips: modernize ralink i2c driver
+d3e5a4d0a1|Rosen Penev|Wed Sep 25 14:43:14 2024 -0700|kernel: ubnt-ledbar: return directly
+f09d973d14|Rosen Penev|Sun Sep 22 11:27:13 2024 -0700|kernel: ubnt-ledbar: use dev_err_probe
+4705398bbf|Nikolay Martynov|Wed Jul 3 23:21:52 2024 -0400|ramips: rename interfaces for tplink er605v2
+a8018f3210|Hauke Mehrtens|Thu Oct 3 15:35:01 2024 +0200|wifi-scripts: Fix typo in EHT320 name
+71da76158e|Manuel Fombuena|Wed Oct 2 22:08:01 2024 +0100|kernel: packages: kmod-pstore: remove deprecated Kconfig options
+b5ffbe7c75|Marek Puzyniak|Wed Sep 25 13:50:48 2024 +0200|mt76: mark mt7925 11BE capable
+3280f9e8f7|Janusz Dziedzic|Mon Sep 23 08:26:08 2024 +0200|mac80211: mark ath12k 80211BE capable
 </details>
