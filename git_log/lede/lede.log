@@ -1,0 +1,6 @@
+<details> <summary> <b>lede new commit log :new: </b>  </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+efbab1938|Álvaro Fernández Rojas|Wed Jan 22 20:42:49 2025 +0100|generic: backport gpio-regmap ops patch
+</details>

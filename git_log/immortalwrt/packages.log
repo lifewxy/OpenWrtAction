@@ -1,0 +1,8 @@
+<details> <summary> <b>packages new commit log :new: </b>  </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+2486303b1|Tianling Shen|Wed Apr 2 21:51:36 2025 +0800|Node.js: sync with upstream source
+8d850997c|Integral|Wed Feb 19 10:41:45 2025 +0800|filebrowser: update to 2.32.0
+e003b47c2|Tianling Shen|Tue Jun 13 15:34:39 2023 +0800|node-pnpm: add new package
+</details>
