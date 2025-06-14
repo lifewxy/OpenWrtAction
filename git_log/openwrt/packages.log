@@ -2,9 +2,5 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-7d6535737|Tianling Shen|Thu Jun 12 19:16:50 2025 +0800|v2ray-geodata: Update to latest version
-aba50f205|Tianling Shen|Thu Jun 12 19:16:38 2025 +0800|xray-core: Update to 25.6.8
-57d860a6a|Josef Schlehofer|Wed Jun 11 20:25:10 2025 +0200|sunwait: drop manual Build/Compile step to respect flags
-1724aeda5|Philip Prindeville|Sun May 25 13:04:08 2025 -0600|bind: enable building against jemalloc library
-a276d5db4|Philip Prindeville|Sun Jun 8 14:27:10 2025 -0600|jemalloc: add package
+a1d04258e|Jan Hák|Tue Jun 10 15:20:36 2025 +0200|knot: update to version 3.4.7
 </details>
