@@ -2,6 +2,5 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-12b50193b|Tianling Shen|Thu Jun 19 21:45:44 2025 +0800|dufs: do not reload firewall manually
-99bc4798e|Nate Robinson|Thu Jun 19 12:46:06 2025 -0400|btop: add patch to fix download/upload display
+ceb3349f3|Tomasz Maciej Nowak|Fri Jun 20 16:54:25 2025 +0200|lttng-ust: bump version to 2.13.9
 </details>
