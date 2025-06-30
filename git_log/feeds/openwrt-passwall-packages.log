@@ -1,0 +1,7 @@
+<details> <summary> <b>openwrt-passwall-packages new commit log :new: </b>  </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+40c90d3|A-BO|Mon Jun 30 00:10:22 2025 +0800|shadowsocks-libev: update hash
+a70fec5|binge8|Sun Jun 29 17:52:49 2025 +0800|naiveproxy: upgraded to v138.0.7204.35-r1 (#462)
+</details>
