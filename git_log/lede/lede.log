@@ -1,7 +1,0 @@
-<details> <summary> <b>lede new commit log :new: </b>  </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-84ae4ea5d|coolsnowwolf|Wed Jun 25 23:05:20 2025 +0800|kernel: bump 6.x to latest HEAD
-9cb964377|aiamadeus|Wed Jun 11 23:09:15 2025 +0800|ksmbd: update to latest git HEAD
-</details>

@@ -1,9 +1,0 @@
-<details> <summary> <b>openwrt new commit log :new: </b>  </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-52e339b8ed|Shubham Vishwakarma|Fri Jun 13 23:47:05 2025 +0530|qualcommax: ipq50xx: Add support for Yuncore AX830
-6716fbb122|Robert Marko|Sun Jun 29 18:03:53 2025 +0200|ipq-wifi: update to Git HEAD (2025-06-23)
-d4d5fbd375|Ondrej Cierny|Thu Jun 26 19:39:37 2025 -0700|download: improve rawgit tar reliability
-99851c7a3f|John Audia|Sat Jun 28 04:44:56 2025 -0400|linux-firmware: update to 20250627
-</details>
