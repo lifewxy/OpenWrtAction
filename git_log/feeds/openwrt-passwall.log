@@ -1,0 +1,6 @@
+<details> <summary> <b>openwrt-passwall new commit log :rocket: </b> </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+bf1ebb6|lwb1978|Thu Aug 21 18:33:39 2025 +0800|luci: limit chain proxy only supports one layer proxy
+</details>
