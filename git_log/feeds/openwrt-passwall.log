@@ -2,5 +2,5 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-615ed73|lwb1978|Thu Sep 11 10:21:14 2025 +0800|luci: optimize subscribe and import
+dc38dbb|A-BO|Fri Sep 12 22:49:02 2025 +0800|luci: fixup https://github.com/xiaorouji/openwrt-passwall/commit/9e66cf06634e15d6406e3d4ba437eb7fc0244f27
 </details>
