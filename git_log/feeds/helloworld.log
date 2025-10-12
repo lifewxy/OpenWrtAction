@@ -2,5 +2,6 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-f41b299|zxl hhyccc|Thu Oct 9 23:12:05 2025 +0800|luci-app-ssr-plus: update subscribe filter words.
+861cf21|zxl hhyccc|Sun Oct 12 01:31:27 2025 +0800|luci-app-ssr-plus: Optimize subscribe code.
+f4df419|zxl hhyccc|Sat Oct 11 23:57:17 2025 +0800|luci-app-ssr-plus: Optimize subscribe code to ensure all parse of node.
 </details>

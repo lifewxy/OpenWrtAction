@@ -2,5 +2,6 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-744d7c2b64|Tianling Shen|Thu Oct 9 21:21:48 2025 +0800|mediatek: switch to lzma compression for konka komi-a31
+aae6b605ea|Tianling Shen|Sun Oct 12 02:02:51 2025 +0800|uboot-mediatek: backport a fix for AN8855 port isolation
+876ce0a8ae|Tianling Shen|Sat Oct 11 15:31:39 2025 +0800|r8168: disable rss by default
 </details>
