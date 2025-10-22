@@ -1,8 +1,5 @@
-<details> <summary> <b>packages new commit log :rocket: </b> </summary>
+<details> <summary> <b>packages new commit log :x: </b> </summary>
 
-SHA|Author|Date|Message
--|-|-|-
-f1470815f|Andrea Pesaresi|Mon Oct 20 18:29:44 2025 +0300|ksmbd-tools: update to 3.5.5
-614450c85|Andrea Pesaresi|Mon Oct 20 18:29:32 2025 +0300|ksmbd-tools: bump to 3.5.4
-129e357fb|Andrea Pesaresi|Mon Oct 20 18:29:20 2025 +0300|ksmbd-tools: adjust smb2 max read/write/trans and cache
+<b> It is detected that packages has an illegal SHA value. It is possible that packages has git rebase behavior. The relevant git update log cannot be counted. Please wait for the next compilation time.</b>
+
 </details>
