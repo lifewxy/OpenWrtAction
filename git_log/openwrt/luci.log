@@ -1,0 +1,8 @@
+<details> <summary> <b>luci new commit log :rocket: </b> </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+51b038b95f|Eric Fahlgren|Tue Oct 28 09:07:03 2025 -0700|luci-app-attendedsysupgrade: improve ux during install and reboot
+d76e47b0ce|Eric Fahlgren|Tue Sep 23 07:35:36 2025 -0700|luci-app-attendedsysupgrade: reorder and reword error instructions
+48f5ee8e5e|Dirk Brenken|Tue Oct 28 18:31:39 2025 +0100|luci-app-adblock: fix faulty template/function reference
+</details>
