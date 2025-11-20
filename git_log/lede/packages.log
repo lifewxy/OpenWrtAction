@@ -2,5 +2,5 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-c1e323d4|coolsnowwolf|Tue Nov 18 18:15:38 2025 +0800|bash: add CFLAGS_FOR_BUILD="-std=gnu17" flag
+8e61d076|coolsnowwolf|Thu Nov 20 09:09:56 2025 +0800|libpfring: update to 9.2.0 and add linux 6.18 support
 </details>
