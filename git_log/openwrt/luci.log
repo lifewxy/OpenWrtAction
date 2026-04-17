@@ -2,6 +2,5 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-0c81d2dbc9|Hannu Nyman|Sat Apr 11 09:17:53 2026 +0300|treewide: backport translations from master
-3cefdb78b6|weicheng04|Fri Apr 10 16:46:05 2026 +0800|luci-mod-network: fix uci.remove() deleting entire radio section on wifi join
+485787b87b|Dirk Brenken|Thu Apr 16 22:15:49 2026 +0200|luci-app-banip: release 1.8.6-1
 </details>
