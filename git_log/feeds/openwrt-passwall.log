@@ -2,11 +2,8 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-b231260c|A-BO|Fri Apr 17 03:06:05 2026 +0800|luci: socks backup nodes support adjusting order
-20f7d424|A-BO|Wed Apr 15 13:45:41 2026 +0800|luci: 26.4.15
-57d56da5|A-BO|Wed Apr 15 11:10:27 2026 +0800|luci: optimize node `user-agent` config options
-49930157|A-BO|Wed Apr 15 10:07:12 2026 +0800|luci: add `cwndmultiplier` support for mkcp and remove its rarely used config options
-b902cfa1|A-BO|Tue Apr 14 23:05:11 2026 +0800|luci: adjust and fix
-3b61837d|A-BO|Tue Apr 14 00:44:04 2026 +0800|luci: optimize dns logic for redir and acl
-df6d2665|A-BO|Tue Apr 14 00:44:04 2026 +0800|luci: optimize
+e66abe8|A-BO|Mon Apr 20 21:56:59 2026 +0800|luci: add manual fetch of `pinnedPeerCertSha256`
+18b70e6|A-BO|Mon Apr 20 17:04:36 2026 +0800|luci: optimize the socks service startup logic
+ffbebca|handsomeji|Thu Apr 16 21:48:01 2026 +0800|luci: optimize subscribe
+8a36ddd|A-BO|Sun Apr 19 03:43:39 2026 +0800|luci: optimize haproxy
 </details>

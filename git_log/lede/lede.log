@@ -2,6 +2,6 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-ecec1ef93|Daniel Golle|Sat Apr 11 22:59:07 2026 +0100|mediatek: don't let devfreq power-off the CPU
-b7c95ae5b|coolsnowwolf|Thu Mar 12 10:05:30 2026 +0800|mediatek: disable crypto by default for mt7988
+195fd0ecb|coolsnowwolf|Sat Apr 18 16:02:06 2026 +0800|cmake: bump to v3.31.5
+9ab80168b|coolsnowwolf|Sat Apr 18 00:15:24 2026 +0800|feeds.conf.default: switch to luci 25.12
 </details>
