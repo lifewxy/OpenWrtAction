@@ -2,5 +2,6 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-8ac5ea2|stefanlei|Fri May 1 11:52:53 2026 +0800|docs: clarify single-interface vs multi-interface selection
+3ec473f|David Mandy|Thu May 7 23:50:25 2026 +0800|CI: update dependency versions
+c087ffa|stefanlei|Thu May 7 23:23:28 2026 +0800|luci-app-bandix: TC backend/order settings and i18n (v0.12.8)
 </details>

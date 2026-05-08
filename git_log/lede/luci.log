@@ -2,5 +2,5 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-847cdd5148|coolsnowwolf|Sun May 3 22:10:48 2026 +0800|luci-theme-design: default proxy tools switch to ssr
+53f59f0aac|coolsnowwolf|Thu May 7 23:21:33 2026 +0800|luci-app-openvpn-server: fix co-work with openvpnc protocal
 </details>
